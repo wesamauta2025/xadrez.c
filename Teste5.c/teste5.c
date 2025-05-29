@@ -1,5 +1,3 @@
-# xadrez.c
-
 #include <stdio.h>
 
 // Função principal
